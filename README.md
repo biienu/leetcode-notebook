@@ -1,2 +1,6 @@
-# leetcode-notebook
-leetcode 做题总结、记录
+
+# leetcode 做题记录、总结
+
+* 想法
+* 思路
+* 方案
