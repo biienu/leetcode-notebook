@@ -2,7 +2,7 @@
 
 ## <u>leetcode 热榜**100**题</u>
 
-## **sort-algorithms**：常见的七种排序算法
+## **sort-algorithms**：十大排序算法
 
 1. 冒泡排序
 2. 堆排序
