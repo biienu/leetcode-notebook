@@ -1,3 +1,19 @@
+# 启动或关闭mysql服务器
+
+```mysq
+# 启动
+mysqld --console
+
+# 关闭
+mysqladmin -uroot shutdown
+```
+
+
+
+
+
+
+
 # 一.mysql的执行顺序
 
 ```sql
